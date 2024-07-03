@@ -11,3 +11,9 @@ Pandas Style is a useful tool that enables users to personalize the look of Data
 - Python 3.9
 - Pandas
 - matplotlib
+
+
+
+# References:
+https://medium.com/@romina.elena.mendez/transform-your-pandas-dataframes-styles-colors-and-emojis-bf938d6e98a2 
+https://nbviewer.org/github/pandas-dev/pandas/blob/main/doc/source/user_guide/style.ipynb
