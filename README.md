@@ -1,5 +1,5 @@
 # Transform-Pandas-DataFrame
-Version 1: Within this repository, we shall delve into a technique for incorporating colors and styles into Pandas DataFrames. Our primary emphasis will be on integrating colors and emojis, employing methods akin to the widely used conditional formatting found in pivot tables in spreadsheet software. By adopting this approach, our objective is to elevate the visual representation of our data, ensuring that the analysis and comprehension of information are not only insightful but also aesthetically pleasing.
+Within this repository, we shall delve into a technique for incorporating colors and styles into Pandas DataFrames. Our primary emphasis will be on integrating colors and emojis, employing methods akin to the widely used conditional formatting found in pivot tables in spreadsheet software. By adopting this approach, our objective is to elevate the visual representation of our data, ensuring that the analysis and comprehension of information are not only insightful but also aesthetically pleasing.
 
 
 ## What is Pandas Style?
